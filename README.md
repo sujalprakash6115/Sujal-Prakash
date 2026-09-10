@@ -1,110 +1,174 @@
-# 👋 Hi, I'm Sujal Prakash
+# Hi, I'm Sujal 👋
 
-### B.Sc. Information Technology Student | Programmer | Web Developer
+💻 **B.Sc. Information Technology Student | Aspiring Full-Stack Developer**
 
----
+I'm a B.Sc. Information Technology student passionate about **software development, web technologies, and building real-world applications**.
 
-## 👨‍💻 About Me
+I enjoy creating modern, responsive, and user-friendly web applications while continuously improving my skills in **frontend development, backend development, databases, and problem-solving**.
 
-I am a motivated and enthusiastic **B.Sc. Information Technology student** with a strong foundation in programming, web development, and problem-solving.
-
-I enjoy learning new technologies, building projects, and improving my technical skills. I am eager to apply my knowledge in real-world projects and contribute to a dynamic organization while continuously developing my professional skills.
+🚀 I love turning ideas into functional projects and learning new technologies by building them.
 
 ---
 
-## 🎓 Education
+## 🚀 About Me
 
-### B.Sc. Information Technology
-**University of Mumbai** | 2024–2027  
-**CGPA:** 9.45
-
-### H.S.C. (12th Standard)
-**B.S.E.B.** | 2024  
-**Percentage:** 81%
-
-### S.S.C. (10th Standard)
-**C.B.S.E.** | 2022  
-**Percentage:** 71%
+* 🎓 B.Sc. Information Technology Student
+* 💻 Interested in **Full-Stack Web Development**
+* 🌐 Passionate about building responsive and interactive websites
+* 🧠 Interested in problem-solving and software development
+* 🔐 Exploring authentication, APIs, databases, and secure web applications
+* 📚 Currently improving my knowledge of modern web technologies
+* 🛠️ I learn best by building real-world projects
 
 ---
 
-## 🛠️ Skills
+## 💻 Tech Stack
 
-### 💻 Programming Languages
-- C
-- C++
-- Python
-- Java
+### 🌐 Frontend
 
-### 🌐 Web Technologies
-- HTML
-- CSS
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Responsive Web Design
 
-### 🔧 Tools
-- Visual Studio Code
-- Git
-- GitHub
-- Microsoft Office
+### ⚙️ Programming Languages
 
----
+* Python
+* C
+* C++
+* Java
+* JavaScript
 
-## 🚀 Projects
+### 🖥️ Backend
 
-### 🎵 Spotify Home Page Clone
-A front-end project recreating the basic design and layout of the Spotify home page.
+* Node.js
+* Express.js
+* REST APIs
 
-### 🔵 Facebook Login Page Clone
-A front-end project recreating the Facebook login page interface using HTML and CSS.
+### 🗄️ Databases
 
-### ❓ Quora Website Page Clone
-A front-end project inspired by the layout and design of the Quora website.
+* MySQL
+* SQL
+* MongoDB
 
-### 🌤️ Python Weather App
-A Python application that fetches real-time weather information using the `requests` library and the wttr.in API.
+### 🛠️ Tools & Technologies
 
----
-
-## 📚 Currently Learning
-
-- Python
-- Java
-- JavaScript
-- Web Development
-- Git & GitHub
-- Software Development
+* Git
+* GitHub
+* VS Code
+* REST APIs
+* JSON
 
 ---
 
-## 📫 Contact Me
+# 📂 Featured Projects
 
-**Name:** Sujal Prakash
+## 🎓 StudentHub
 
-**Email:** sujalprakash6666@gmail.com
+**StudentHub** is a student productivity platform designed to help students manage their academic activities from one place.
 
-**Phone:** 9341037529
+It brings together features such as **tasks, notes, attendance, study sessions, schedules, and academic progress** into a single platform.
 
-**Location:** Boisar, Palghar, Maharashtra, India
+### ✨ Features
 
----
+* 📋 Task management
+* 📝 Notes management
+* 📅 Study planning
+* 📊 Academic progress tracking
+* 📚 Student productivity tools
+* 📱 Responsive user interface
 
-## 🌐 Languages
-
-- 🇬🇧 English
-- 🇮🇳 Hindi
-
----
-
-## 🎯 Career Objective
-
-To continuously improve my technical and professional skills, work on meaningful projects, gain practical experience, and build a successful career in the Information Technology field.
+**Tech:** HTML, CSS, JavaScript / Web Technologies
 
 ---
 
-## 📜 Declaration
+## 💻 CodeVault
 
-I hereby declare that the information provided above is true to the best of my knowledge.
+**CodeVault** is a developer-focused project designed to provide an organized space for storing, managing, and accessing useful code snippets and programming resources.
+
+The project focuses on making it easier for developers and students to **save, organize, and reuse code** while learning and working on different projects.
+
+### ✨ Features
+
+* 💾 Code snippet management
+* 🗂️ Organized code resources
+* 🔎 Easy access to saved code
+* 💻 Developer-friendly interface
+* 📱 Responsive design
+* 🧑‍💻 Useful for programming students and developers
+
+**Tech:** HTML, CSS, JavaScript
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 🌍 Myodex Translate
+
+**Myodex Translate** is a language translation web application designed to translate text between different languages with a simple and user-friendly interface.
+
+The project also explores **voice input and voice output**, making communication more convenient and interactive.
+
+### ✨ Features
+
+* 🌐 Multi-language translation
+* 🎤 Voice input
+* 🔊 Voice output
+* 🔄 Source and target language selection
+* 📝 Text translation
+* 📱 Responsive interface
+* ⚡ Interactive user experience
+
+**Tech:** HTML, CSS, JavaScript, Translation APIs, Web Speech API
+
+---
+
+# 🧠 What I'm Learning
+
+Currently improving my knowledge of:
+
+* 🚀 Full-Stack Development
+* ⚛️ React.js
+* 🟢 Node.js & Express.js
+* 🗄️ MySQL & MongoDB
+* 🔗 REST APIs
+* 🔐 Authentication & Security
+* 🌿 Git & GitHub
+* ☁️ Modern Web Technologies
+* 🏗️ Software Development Practices
+
+---
+
+# 🎯 My Goals
+
+My goal is to become a **skilled Full-Stack Developer** capable of designing, developing, and deploying scalable real-world applications.
+
+I want to continuously improve my programming skills, explore new technologies, contribute to meaningful projects, and build software that solves real-world problems.
+
+---
+
+# 📊 GitHub Activity
+
+I regularly use GitHub to:
+
+* 🚀 Build and showcase projects
+* 📚 Practice programming
+* 🔧 Learn new technologies
+* 📦 Manage source code
+* 🌱 Track my development journey
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with other developers, students, and technology enthusiasts.
+
+### 📫 Find Me On
+
+* 💻 **GitHub:** https://github.com/sujalprakash6115
+* 🔗 **LinkedIn:** www.linkedin.com/in/sujalprakash6115
+
+---
+
+### 💡 "Build. Learn. Improve. Repeat." 🚀
+
+Thanks for visiting my profile! 👋
