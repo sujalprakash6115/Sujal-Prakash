@@ -144,30 +144,6 @@ A centralized citizen-focused platform designed to make everyday public services
 
 **Planned Tech:** React, Tailwind CSS, Node.js, Express.js, MongoDB, AI APIs
 
-### 🤖 AI-Powered Productivity Ecosystem
-
-An intelligent productivity platform designed to help students and professionals manage their daily activities.
-
-**Planned Features:**
-- AI task suggestions
-- Smart reminders
-- Document summarization
-- Personal productivity dashboard
-- AI chatbot integration
-- Progress tracking
-
-### 🔒 Secure Personal Cloud Storage
-
-A secure file management platform for storing, organizing, and sharing personal documents.
-
-**Planned Features:**
-- Secure authentication
-- File uploads and downloads
-- Document categorization
-- File-sharing functionality
-- Access management
-- Storage dashboard
-
 ---
 
 ## 🌱 Currently Learning
